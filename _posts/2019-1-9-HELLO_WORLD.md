@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: HELLO WORLD!
 ---
 
 I everyone! Check my [stackoverflow account](http://stackoverflow.com/users/3480602/vanojx1).
