@@ -2,6 +2,6 @@
  -layout: post
  -title: HELLO WORLD!
  -published: true
- ----
- -
- -I everyone! Check my [stackoverflow account](http://stackoverflow.com/users/3480602/vanojx1).
+----
+-
+-I everyone! Check my [stackoverflow account](http://stackoverflow.com/users/3480602/vanojx1).
